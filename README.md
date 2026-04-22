@@ -11,25 +11,25 @@ Many of my projects are intentionally released under an open source license (MIT
 
 ---
 
-### PHP Monitor
+### ❶ PHP Monitor
 
-A [native application](https://github.com/nicoverbruggen/phpmon) written in Swift to make building PHP projects on the Mac a little easier. It started as a GUI companion for Laravel Valet, but it has grown quite beyond that scope at this point. 
+I'm probably best known for this one. A [native application](https://github.com/nicoverbruggen/phpmon) written in Swift to make building PHP projects on the Mac a little easier. It started as a GUI companion for Laravel Valet, but it has grown quite beyond that scope at this point. 
 
 This project gained some traction in 2021 and following years and partially inspired Laravel Herd, after which it became a little less popular because the official Laravel offering became the default go-to option for new developers.
 
 I still maintain the project and it remains under development because I believe that Homebrew PHP is still the best way to get PHP up and running on your Mac, in line with other development tooling.
 
-### Fonts for e-readers
+### ❷ Fonts for e-readers
 
 As part of curating a personal [collection of fonts for e-readers](https://github.com/nicoverbruggen/ebook-fonts) I've done various deep dives into understanding the ins and outs of font rendering on Kobo devices.
 
 I've also worked on turning an existing typeface into [Readerly](https://github.com/nicoverbruggen/readerly), a font reminiscent of Bookerly and maintain some font derivatives like [Cartisse](https://github.com/nicoverbruggen/cartisse) and [Sourcerer](https://github.com/nicoverbruggen/sourcerer) and a tweaked version of [EB Garamond](https://github.com/nicoverbruggen/nv-garamond).
 
-### Kobo stuff
+### ❸ Kobo stuff
 
-I maintain [tooling for patching fonts](https://github.com/nicoverbruggen/kobo-font-fix) to make those fonts render as correctly as possible on Kobo devices running the 4.x firmware.
+I maintain [tooling for patching fonts](https://github.com/nicoverbruggen/kobo-font-fix) to make those fonts render as correctly as possible on Kobo devices running the 4.x firmware. This closely ties into my other various font projects, which are mostly intended for usage on e-reader devices (Kobo, Kindle, Boox, etc.).
 
-I've also built an [interactive website](https://github.com/nicoverbruggen/kobopatch-webui) for easy patching of your devices with a [preset I maintain](https://github.com/nicoverbruggen/kobo-config), I've created a [fork of OpenDyslexic](https://github.com/nicoverbruggen/odys-compare) with some tweaks.
+I have also built an [interactive website](https://github.com/nicoverbruggen/kobopatch-webui) for easy patching of your devices with a [preset I maintain](https://github.com/nicoverbruggen/kobo-config) or patches distributed via the MobileRead forums, and I've created a bit of an [OpenDyslexic](https://github.com/nicoverbruggen/odys-compare) case study with various font variants for your reading pleasure.
 
 ---
 
