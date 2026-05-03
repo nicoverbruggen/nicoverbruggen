@@ -7,7 +7,7 @@ You can find my various open source contributions here. Here's a few places to l
 - I also maintain a curated [collection of fonts for e-readers](https://github.com/nicoverbruggen/ebook-fonts), as well as [tooling for patching fonts](https://github.com/nicoverbruggen/kobo-font-fix) for Kobo devices
 - If you love what I do, you are encouraged to [sponsor my work](https://nicoverbruggen.be/sponsor) or star my work
 
-Many of my projects are intentionally released under an open source license (MIT or equivalent) since I believe in open ecosystems. You can find links to my social media channels [here](https://nicoverbruggen.be/sponsor).
+Many of my projects are intentionally released under an open source license (MIT or equivalent) since I believe in open ecosystems. You can find links to my social media channels [here](https://nicoverbruggen.be/about).
 
 ---
 
