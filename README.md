@@ -23,13 +23,17 @@ I still maintain the project and it remains under development because I believe 
 
 As part of curating a personal [collection of fonts for e-readers](https://github.com/nicoverbruggen/ebook-fonts) I've done various deep dives into understanding the ins and outs of font rendering on Kobo devices.
 
-I've also worked on turning an existing typeface into [Readerly](https://github.com/nicoverbruggen/readerly), a font reminiscent of Bookerly and maintain some font derivatives like [Cartisse](https://github.com/nicoverbruggen/cartisse) and [Sourcerer](https://github.com/nicoverbruggen/sourcerer) and a tweaked version of [EB Garamond](https://github.com/nicoverbruggen/nv-garamond).
+I've also worked on turning an existing typeface into [Libron](https://github.com/nicoverbruggen/libron), a font reminiscent of Bookerly. This variant originally started as [Readerly](https://github.com/nicoverbruggen/readerly), which is now retired. and I also maintain some font derivatives like [Cartisse](https://github.com/nicoverbruggen/cartisse) and [Sourcerer](https://github.com/nicoverbruggen/sourcerer) and a tweaked version of [EB Garamond](https://github.com/nicoverbruggen/nv-garamond).
 
-### ❸ Kobo stuff
+I've also worked on a bit of an [OpenDyslexic](https://github.com/nicoverbruggen/odys-compare) case study with various font variants for your reading pleasure.
 
-I maintain [tooling for patching fonts](https://github.com/nicoverbruggen/kobo-font-fix) to make those fonts render as correctly as possible on Kobo devices running the 4.x firmware. This closely ties into my other various font projects, which are mostly intended for usage on e-reader devices (Kobo, Kindle, Boox, etc.).
+### ❸ Kobo mods & web UI
 
-I have also built an [interactive website](https://github.com/nicoverbruggen/kobopatch-webui) for easy patching of your devices with a [preset I maintain](https://github.com/nicoverbruggen/kobo-config) or patches distributed via the MobileRead forums, and I've created a bit of an [OpenDyslexic](https://github.com/nicoverbruggen/odys-compare) case study with various font variants for your reading pleasure.
+I created and maintain two Kobo mods, [NickelHome](https://github.com/nicoverbruggen/NickelHome) and [NickelTypeFix](https://github.com/nicoverbruggen/NickelTypeFix). The former is focused on giving your Kobo on firmware 4.x a clean homescreen, and the latter was created to improve typesetting in Kobo's native reader application, bringing the text rendering mostly up to par with alternatives like KOReader.
+
+I also have some [tooling for patching fonts](https://github.com/nicoverbruggen/kobo-font-fix) to make those fonts render as correctly as possible on Kobo devices running the 4.x firmware. This closely ties into my other various font projects, which are mostly intended for usage on e-reader devices (Kobo, Kindle, Boox, etc.).
+
+I have also built [KoboPatch Web UI](https://github.com/nicoverbruggen/kobopatch-webui), the easiest way to patch your Kobo with a [preset I maintain](https://github.com/nicoverbruggen/kobo-config) or patches distributed via the MobileRead forums. You can also use the website to easily install various mods and KOReader.
 
 ---
 
