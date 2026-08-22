@@ -42,10 +42,10 @@ I have also built [KoboPatch Web UI](https://github.com/nicoverbruggen/kobopatch
 
 ### ❹ Game mods
 
-I also maintain a few mods for PC games, which I worked on to ensure they run better on Windows and Linux since their original releases had some issues. I'm talking about the older Atelier games, for which you can find the mods here:
+I also maintain two mods for PC games. I worked on these to ensure they run better, since their original releases had some issues:
 
-- [Atelier Arland Fixes](https://github.com/nicoverbruggen/atelier-arland-fixes): enhancements and fixes for Atelier Rorona, Totori and Meruru
-- [Atelier Dusk Fixes](https://github.com/nicoverbruggen/atelier-dusk-fixes): enhancements and fixes for Atelier Ayesha, Escha & Logy and Shallie
+- [Atelier Arland Fixes](https://github.com/nicoverbruggen/atelier-arland-fixes): enhancements and fixes for Atelier Rorona DX, Totori DX and Meruru DX ([on Steam](https://store.steampowered.com/bundle/9121/Atelier_Arland_series_Deluxe_Pack/))
+- [Atelier Dusk Fixes](https://github.com/nicoverbruggen/atelier-dusk-fixes): enhancements and fixes for Atelier Ayesha DX, Escha & Logy DX and Shallie DX ([on Steam](https://store.steampowered.com/bundle/13066/Atelier_Dusk_Trilogy_Deluxe_Pack/))
 
 ---
 
