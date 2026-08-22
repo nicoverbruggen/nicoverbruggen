@@ -23,7 +23,7 @@ I still maintain the project and it remains under development because I believe 
 
 As part of curating a personal [collection of fonts for e-readers](https://github.com/nicoverbruggen/ebook-fonts) I've done various deep dives into understanding the ins and outs of font rendering on Kobo devices.
 
-I've also worked on turning an existing typeface into [Libron](https://github.com/nicoverbruggen/libron), a font reminiscent of Bookerly. This variant originally started as [Readerly](https://github.com/nicoverbruggen/readerly), which is now retired. and I also maintain some font derivatives like [Cartisse](https://github.com/nicoverbruggen/cartisse) and [Sourcerer](https://github.com/nicoverbruggen/sourcerer) and a tweaked version of [EB Garamond](https://github.com/nicoverbruggen/nv-garamond).
+I've also worked on turning an existing typeface into [Libron](https://github.com/nicoverbruggen/libron), a font reminiscent of Bookerly. This variant originally started as [Readerly](https://github.com/nicoverbruggen/readerly), which is now retired. and I also maintain some font derivatives like [Cartisse](https://github.com/nicoverbruggen/cartisse) and [Sourcerer](https://github.com/nicoverbruggen/sourcerer) and a tweaked version of [EB Garamond](https://github.com/nicoverbruggen/ebook-fonts).
 
 I've also worked on a bit of an [OpenDyslexic](https://github.com/nicoverbruggen/odys-compare) case study with various font variants for your reading pleasure.
 
@@ -39,6 +39,13 @@ I created and maintain a few Kobo mods for 4.x software versions:
 I also have some [tooling for patching fonts](https://github.com/nicoverbruggen/kobo-font-fix) to make those fonts render as correctly as possible on Kobo devices running the 4.x firmware. This closely ties into my other various font projects, which are mostly intended for usage on e-reader devices (Kobo, Kindle, Boox, etc.).
 
 I have also built [KoboPatch Web UI](https://github.com/nicoverbruggen/kobopatch-webui), the easiest way to patch your Kobo with a [preset I maintain](https://github.com/nicoverbruggen/kobo-config) or patches distributed via the MobileRead forums. You can also use the website to easily install various mods and KOReader.
+
+### ❹ Game mods
+
+I also maintain a few mods for PC games, which I worked on to ensure they run better on Windows and Linux since their original releases had some issues. I'm talking about the older Atelier games, for which you can find the mods here:
+
+- [Atelier Arland Fixes](https://github.com/nicoverbruggen/atelier-arland-fixes): enhancements and fixes for Atelier Rorona, Totori and Meruru
+- [Atelier Dusk Fixes](https://github.com/nicoverbruggen/atelier-dusk-fixes): enhancements and fixes for Atelier Ayesha, Escha & Logy and Shallie
 
 ---
 
