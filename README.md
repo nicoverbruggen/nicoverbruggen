@@ -33,7 +33,6 @@ I created and maintain a few Kobo mods for 4.x software versions:
 
 - [NickelHome](https://github.com/nicoverbruggen/NickelHome): give your Kobo a clean homescreen
 - [NickelTypeFix](https://github.com/nicoverbruggen/NickelTypeFix): fix typography and typesetting
-- [NickelCoverFix](https://github.com/nicoverbruggen/NickelCoverFix): fallback for cover cache and custom covers
 - [NickelDissolve](https://github.com/nicoverbruggen/NickelDissolve): animate page turns on Kobo devices
 
 I also have some [tooling for patching fonts](https://github.com/nicoverbruggen/kobo-font-fix) to make those fonts render as correctly as possible on Kobo devices running the 4.x firmware. This closely ties into my other various font projects, which are mostly intended for usage on e-reader devices (Kobo, Kindle, Boox, etc.).
