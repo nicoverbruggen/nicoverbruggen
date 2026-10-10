@@ -31,6 +31,7 @@ I've also worked on a bit of an [OpenDyslexic](https://github.com/nicoverbruggen
 
 I created and maintain a few Kobo mods for 4.x software versions:
 
+- [Kobalt](https://github.com/nicoverbruggen/Kobalt): an alternative reader app
 - [NickelHome](https://github.com/nicoverbruggen/NickelHome): give your Kobo a clean homescreen
 - [NickelTypeFix](https://github.com/nicoverbruggen/NickelTypeFix): fix typography and typesetting
 - [NickelDissolve](https://github.com/nicoverbruggen/NickelDissolve): animate page turns on Kobo devices
