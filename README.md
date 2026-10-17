@@ -1,4 +1,4 @@
-Hello, I'm **Nico Verbruggen**, a software developer from Belgium, who has spent the last decade or so working with lots of PHP and Swift. 
+Hello, I'm **Nico Verbruggen**, a software developer from Belgium, who has spent the last decade or so working with lots of PHP and Swift. My day job is mostly focused on PHP. In my spare time I'm also doing experimental projects with the help of agents, mostly ones related to e-readers and digital reading. 
 
 You can find my various open source contributions here. Here's a few places to learn more about me and my work:
 
