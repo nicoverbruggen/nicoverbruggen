@@ -29,12 +29,14 @@ I've also worked on a bit of an [OpenDyslexic](https://github.com/nicoverbruggen
 
 ### ❸ Kobo mods & web UI
 
-I created and maintain a few Kobo mods for 4.x software versions:
+I created and maintain a few Kobo mods:
 
-- [Kobalt](https://github.com/nicoverbruggen/Kobalt): an alternative reader app
-- [NickelHome](https://github.com/nicoverbruggen/NickelHome): give your Kobo a clean homescreen
-- [NickelTypeFix](https://github.com/nicoverbruggen/NickelTypeFix): fix typography and typesetting
-- [NickelDissolve](https://github.com/nicoverbruggen/NickelDissolve): animate page turns on Kobo devices
+- [Kobalt](https://github.com/nicoverbruggen/Kobalt): an alternative reader app (firmware 4.x and 6.x, as well as other platforms)
+- [NickelModManager](https://github.com/nicoverbruggen/NickelModManager): mod manager for Kobo devices (firmware 4.x and 6.x)
+- [NickelHome](https://github.com/nicoverbruggen/NickelHome): give your Kobo a clean homescreen (firmware 4.x)
+- [NickelTypeFix](https://github.com/nicoverbruggen/NickelTypeFix): fix typography and typesetting (firmware 4.x)
+- [NickelDissolve](https://github.com/nicoverbruggen/NickelDissolve): animate page turns on Kobo devices (firmware 4.x)
+
 
 I also have some [tooling for patching fonts](https://github.com/nicoverbruggen/kobo-font-fix) to make those fonts render as correctly as possible on Kobo devices running the 4.x firmware. This closely ties into my other various font projects, which are mostly intended for usage on e-reader devices (Kobo, Kindle, Boox, etc.).
 
